@@ -1,10 +1,8 @@
-# Jogo
-<h1>Pedra Papel Tesoura <h1>
+Pedra ,Papel e Tesoura
 
-#Olá!😀
+Ola! 😀
 
-Este jogo foi  desenvolvido para vocÊ se diverti  e integarir com o seu computado  🖥️
+Este jogo é totalmennte interátivo matando aquela saudade de criança.
 
-Espero que gostem.
-
+Espero que gostem!!!
 
